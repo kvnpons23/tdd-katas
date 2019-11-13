@@ -1,0 +1,17 @@
+{
+  "name": "katas",
+  "version": "1.0.0",
+  "description": "tdd-katas tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc mocha"
+  },
+  "author": "kevin ponce",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2",
+    "nyc": "^14.1.1",
+    "sinon": "^7.5.0"
+  }
+}
